@@ -1,0 +1,1 @@
+import{N as n,ad as t,M as o,ae as a,af as m,ag as l}from"./entry.d5e2da81.js";n.Button=t;n.Avatar=o;n.Input=a;n.Image=m;n.Title=l;n.install=function(e){return e.component(n.name,n),e.component(n.Button.name,t),e.component(n.Avatar.name,o),e.component(n.Input.name,a),e.component(n.Image.name,m),e.component(n.Title.name,l),e};
